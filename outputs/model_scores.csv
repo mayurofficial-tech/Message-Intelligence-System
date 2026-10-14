@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,recall,F1,TN,FP,FN,TP
+KNN,1.0,1.0,1.0,1.0,845,0,0,195
+SVC,1.0,1.0,1.0,1.0,845,0,0,195
+GaussianNB,1.0,1.0,1.0,1.0,845,0,0,195
