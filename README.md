@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://message-intelligence-system-by-master.streamlit.app"><b>🚀 &nbsp;OPEN THE LIVE APP</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="PASTE_YOUR_GOOGLE_DRIVE_OR_UNLISTED_YOUTUBE_LINK_HERE"><b>🎥 &nbsp;WATCH THE PROJECT VIDEO</b></a>
+  <a href="https://drive.google.com/file/d/1nS4-JRpopKFmcWSF5RanofXykTJKVV1x/view?usp=drive_link"><b>🎥 &nbsp;WATCH THE PROJECT VIDEO</b></a>
 </p>
 
 <p align="center">
