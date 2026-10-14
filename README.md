@@ -1,7 +1,7 @@
 # 📩 Message Intelligence System
 
 > **🎥 Project Video:** `PASTE_YOUR_GOOGLE_DRIVE_OR_UNLISTED_YOUTUBE_LINK_HERE`  
-> **🚀 Live Streamlit App:** `PASTE_YOUR_DEPLOYED_STREAMLIT_APP_URL_HERE`
+> **🚀 Live Streamlit App:** `https://message-intelligence-system-by-master.streamlit.app`
 
 A machine-learning application that classifies message-related numerical features as **Spam (1)** or **Ham / Legitimate (0)**. The Streamlit interface lets users choose between K-Nearest Neighbors (KNN), Support Vector Classifier (SVC), and Naive Bayes (NB).
 
